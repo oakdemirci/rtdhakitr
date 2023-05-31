@@ -21,9 +21,9 @@ Windows
 Linux
 ^^^^^^^^
 
-#. Download `Linux installation`_ file.
+#. `Linux kurulum`_ dosyasını indirin.
 
-#. Run following command(s)
+#. Aşağıdaki komutları çalıştırın.
 
 .. code-block:: console
 
@@ -31,23 +31,23 @@ Linux
    eval "$(/home/murat/miniforge3/bin/conda shell.bash hook)"
    conda init
    conda config --set auto_activate_base false
-.. _linux installation: https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-Linux-x86_64.sh
+.. _linux kurulum: https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-Linux-x86_64.sh
 
 
 OsX
 ^^^^^^^^
 
-#. Download `OsX installation`_ file.
+#. `OsX kurulum`_ dosyasını indirin.
 
-#. Run following command(s)
+#. Aşağıdaki komutları çalıştırın.
 
 .. code-block:: console
 
    bash Miniforge3-MacOSX-x86_64.sh
 
-.. _osx installation: https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-MacOSX-x86_64.sh
+.. _osx kurulum: https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-MacOSX-x86_64.sh
 
-UHTE Virtual Environment Creation
+UHTE Sanal Ortamı Oluşturma
 ------------
 
 .. note::
