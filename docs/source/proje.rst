@@ -1,4 +1,4 @@
-Usage
+Proje
 =====
 
 .. _installation:
