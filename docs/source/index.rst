@@ -3,7 +3,7 @@ Haki Projesi dokümantasyonuna hoş geldiniz!
 
 **Haki** bir bla bla projesidir.
 
-:doc:`proje` bölümünde ayrıntılı bilgilere ulaşabilirsiniz. :ref:`installation` ile kurulum bilgilerine erişebilirsiniz.
+:doc:`proje` bölümünde ayrıntılı bilgilere ulaşabilirsiniz. :ref:`kurulum` kısmında kurulum bilgilerine erişebilirsiniz.
 
 .. note::
 
