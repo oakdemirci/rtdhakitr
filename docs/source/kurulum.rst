@@ -3,6 +3,7 @@ Kurulum
 
 .. _kurulum:
 
+
 Miniforge
 ------------
 
