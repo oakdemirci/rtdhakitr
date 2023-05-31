@@ -3,8 +3,7 @@ Haki Projesi dokümantasyonuna hoş geldiniz!
 
 **Haki** bir bla bla projesidir.
 
-:doc:`usage` bölümünde ayrıntılı bilgilere ulaşabilirsiniz. 
-Kurulum bölümünde :ref:`installation` kurulum bilgilerine erişebilirsiniz.
+:doc:`usage` bölümünde ayrıntılı bilgilere ulaşabilirsiniz. :ref:`installation` ile kurulum bilgilerine erişebilirsiniz.
 
 .. note::
 
@@ -16,4 +15,4 @@ Kurulum bölümünde :ref:`installation` kurulum bilgilerine erişebilirsiniz.
 .. toctree::
 
    usage
-   installation
+   
