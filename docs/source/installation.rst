@@ -52,9 +52,9 @@ UHTE Sanal Ortamı Oluşturma
 
 .. note::
 
-   On Windows; after miniforge installation, press "Windows key", search for "miniforge" and run "Miniforge Prompt".
+   Windowsta; miniforge kurulumu sonrasında, "Windows" tuşuna basın, "miniforge" aratın, ve "Miniforge Prompt" uygulamasını çalıştırın.
  
-Create virtual env UHTE with the following command.
+UHTE sanal ortamını aşağıdaki komutu çalıştırarak oluşturun.
 
 
 .. code-block:: console
@@ -65,10 +65,10 @@ Create virtual env UHTE with the following command.
 JupyterLab
 ------------
 
-On “Miniforge Prompt” window;
+“Miniforge Prompt” penceresinde;
 
-#. activate UHTE venv
-#. install JupyterLab.
+#. UHTE sanal ortamını etkinleştirin.
+#. JupyterLab kurun.
 
 .. code-block:: console
 
@@ -79,9 +79,9 @@ On “Miniforge Prompt” window;
 GNU Radio
 ------------
 
-On “Miniforge Prompt” window; 
+“Miniforge Prompt” penceresinde;
 
-#. install GNU Radio.
+#. GNU Radio kurun.
 
 .. code-block:: console
 
@@ -89,12 +89,12 @@ On “Miniforge Prompt” window;
    conda install gnuradio python=3.9
 
 
-Python Libraries
+Python Kütüphaneleri
 ------------
 
-On “Miniforge Prompt” window; 
+“Miniforge Prompt” penceresinde; 
 
-#. install the following Python libraries.
+#. Aşağıdaki Python kütüphanelerini kurun.
 
 .. code-block:: console
 
@@ -111,30 +111,30 @@ On “Miniforge Prompt” window;
 osmocom
 ------------
 
-#. Download `Osmocom`_
-#. Extract zip to virtual environment path, for example C:\\Users\\murat\\miniforge3\\envs\\UHTE
+#.  `Osmocom`_ indirin.
+#. Sıkıştırılmış dosyası sanal ortam kurulu dizinine çıkartın, örneğin C:\\Users\\murat\\miniforge3\\envs\\UHTE
 
 .. _osmocom: https://downloads.osmocom.org/binaries/windows/rtl-sdr/rtl-sdr-64bit-20221120.zip
 
-RTL-SDR Drivers
+RTL-SDR Sürücüleri
 ------------
 
 .. note::
    
-   Drivers need physical hardware and setup will be completed during lessons. File download is sufficient for this step.
+   Sürücüler donanım takılı iken kurulabildikleri için, kurulum ders sırasında tamamlanacaktır. Bu adım için dosya indirilmesi yeterlidir.
    
-#. Download `Rtl`_ ve `Sdr`_ files.
+#. `Rtl`_ ve `Sdr`_ dosyalarını indirin.
    
 .. _rtl: https://github.com/pbatard/libwdi/releases/download/b730/zadig-2.5.exe
 .. _sdr: https://airspy.com/?ddownload=3130
 
 
-Test Installation
+Kurulumun Test edilmesi
 ------------
 
-#. Open a new "Miniforge Prompt".
-#. Activate virtual environment.
-#. Open Jupyter Lab and open a new notebook.
+#. Yeni bir “Miniforge Prompt” açın.
+#. Sanal ortamı etkinleştirin.
+#. Jupyter Lab'ı açın ve yeni bir not defteri açın.
 
 .. code-block:: console
 
