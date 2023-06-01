@@ -14,5 +14,6 @@ Haki Projesi dokümantasyonuna hoş geldiniz!
 
 .. toctree::
 
-   proje
+   usage
+   installation
    
