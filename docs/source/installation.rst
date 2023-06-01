@@ -1,7 +1,7 @@
 Kurulum
 =====
 
-.. _kurulum:
+.. _installation:
 
 
 Miniforge
